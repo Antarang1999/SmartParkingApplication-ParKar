@@ -1,4 +1,2 @@
 # Spam Filter For Social Network
-[REPORT.pdf](https://github.com/Antarang1999/SpamFilterForSocialNetwork/files/15134171/REPORT.pdf) <br>
-To access the application go to link : [Android Application](https://drive.google.com/drive/folders/1runWAnUDgHuX1Qd26Hz0frv-TInNi6S8) <br>
-To access the OpenCV(Machine Learning logic with OpenALPR) go to link: [Machine Learning Code in Python](https://drive.google.com/drive/folders/1dr850KTZ3kM5oQ-8DACc51BlfwzhfRfd)
+[HANDOUT]([https://github.com/Antarang1999/SpamFilterForSocialNetwork/files/15134171/REPORT.pdf](https://github.com/Antarang1999/SmartParkingApplication-ParKar/blob/main/Parkar-20240428T233331Z-001/Parkar/Report%2CEvalutionsheet/handoutstl.pdf)) 
